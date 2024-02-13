@@ -16,21 +16,13 @@ img{
 button {
     cursor: pointer;
 }
-h1{
-        font-family: "Roboto", sans-serif;
-        font-weight: 700;
-        font-size: 56px;
-        line-height: 1.07143;
-        letter-spacing: 0.02em;
-        
-        color: #fff;
-}
+
 /*section header*/
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -72,6 +64,17 @@ h1{
     color: #404BBF;
 }
 /*section effective solution*/
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+
 .effective-solutions{
    
     background-color: #2E2F42;
