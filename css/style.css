@@ -10,9 +10,9 @@ a{
 ul, ol{
     list-style: none;
 }
-img{
+/*img{
     display: block;
-}
+}*/
 button {
     cursor: pointer;
 }
